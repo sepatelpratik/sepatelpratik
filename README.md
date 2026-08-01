@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pratik Patel
 
-🚀 **Senior Backend Engineer | 9+ Years Experience | Node.js | GCP | AI Systems**
+🚀 **Senior Backend Engineer | 9+ Years Experience | GCP | AWS | Node.js | NestJS | TypeScript | GraphQL | AI Systems**
 
 ---
 
